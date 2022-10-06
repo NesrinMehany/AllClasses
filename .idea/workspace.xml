@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91403db8-e3ef-461b-8032-0a4246c9da1d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SDETBatch14Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/AccessModifiersTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/AccessModifiersTask2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/Methods1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/Methods2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/Methods3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/Methods4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/Methods5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/ReplsPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/StringBuilderVsStringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/StringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/StringMethods2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/StringMethodsTask5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/StringMethodstask4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/StringSplit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/methods6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringMethodsReview/Questions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringMethodsReview/StringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringMethodsReview/StringMethods1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/Class16/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/Class16/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/Class16/PersonTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/Class16/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/Class16/SyntaxEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/Class16/Task1Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/Class16/notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class12/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class12/PhoneTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class12/StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class12/notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class13/StringDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class13/StringDemo2n3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class13/StringDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class13/StringMethodsTask6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class13/Tasks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class13/intellijDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class13/notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class14/CreatingMethodwithPrameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class14/HomeworkTasks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class14/MethodsDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class14/MethodsDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class14/MethodsDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class14/Reacp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class14/RecapSBnSB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class14/notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class15/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class15/HomeWorkTask2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class15/HomeWorkTask3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class15/HomeWorkTask4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class15/HomeWorkTask5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class15/HomeWorkTask6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class15/HomeworkTasks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class15/HondaBike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class15/LocalVarDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class15/notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/DogTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/EmpTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/notes" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FGrW3mYa5ONrwWxGSOXc78iGwC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mina/Syntax WorkSpace/SDETBatch14Java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.AccessModifiersTask1">
+    <configuration name="AccessModifiersTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork.AccessModifiersTask1" />
+      <module name="SDETBatch14Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocalVarDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class15.LocalVarDemo" />
+      <module name="SDETBatch14Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.class15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork.Main" />
+      <module name="SDETBatch14Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Methods2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork.Methods2" />
+      <module name="SDETBatch14Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="methods6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork.methods6" />
+      <module name="SDETBatch14Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AccessModifiersTask1" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.LocalVarDemo" />
+        <item itemvalue="Application.methods6" />
+        <item itemvalue="Application.Methods2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91403db8-e3ef-461b-8032-0a4246c9da1d" name="Changes" comment="" />
+      <created>1664129304534</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664129304534</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="run" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
