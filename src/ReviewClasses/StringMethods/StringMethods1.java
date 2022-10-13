@@ -1,4 +1,4 @@
-package StringMethodsReview;
+package ReviewClasses.StringMethods;
 
 public class StringMethods1 {
 	
