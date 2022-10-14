@@ -1,64 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91403db8-e3ef-461b-8032-0a4246c9da1d" name="Changes" comment="Constructor Homework">
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/OverLoading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/OverLoadingHW3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/OverLoadingHW4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/OverRidingDegree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/OverRidingTask2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/OveroadingProgramming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReviewClasses/MethodsandConstructor/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReviewClasses/MethodsandConstructor/Shelter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/Class18/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/Class18/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/Class18/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/Class18/CatTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/Class18/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/Class18/Horse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/Class18/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/Class18/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/Class18/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/Class18/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/Class18/Task3Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/Class18/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/Class18/ThisKeywordDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Crow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Furniture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/MethodOverLoadingD2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/MethodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/Repl139.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/TeacherTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/Browser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/Task1C20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/Task2C20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/notes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork/ConstructorTask3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringMethodsReview/Questions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClasses/StringMethods/Questions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringMethodsReview/StringMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClasses/StringMethods/StringMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringMethodsReview/StringMethods1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClasses/StringMethods/StringMethods1.java" afterDir="false" />
-    </list>
+    <list default="true" id="91403db8-e3ef-461b-8032-0a4246c9da1d" name="Changes" comment="Constructor Homework" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
