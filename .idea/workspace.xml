@@ -1,7 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91403db8-e3ef-461b-8032-0a4246c9da1d" name="Changes" comment="Constructor Homework" />
+    <list default="true" id="91403db8-e3ef-461b-8032-0a4246c9da1d" name="Changes" comment="Constructor Homework">
+      <change afterPath="$PROJECT_DIR$/Drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/C22PolymorphismTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/C23PolymorphismTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/C23PolymorphismTask2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class11/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class11/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class11/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class11/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class11/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class11/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class11/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/AnimalTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/CarTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/CastingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/CreditCardTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/FinalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/WebDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/WebDriverTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/DataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/DataBaseTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/IDataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/InterfaceTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/StudentTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDETBatch14Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SDETBatch14Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,19 +75,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mina/Syntax WorkSpace/SDETBatch14Java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;debugger.dataViews&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Mina/Syntax WorkSpace/SeleniumBasics",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "debugger.dataViews"
   }
-}</component>
-  <component name="RunManager" selected="Application.Tester">
-    <configuration name="C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork.C" />
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mina\Syntax WorkSpace\AllClasses\src\com\syntax" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mina\Syntax WorkSpace\AllClasses" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork.Main" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
@@ -113,13 +162,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="AllClasses" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="AllClasses" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Tester" />
         <item itemvalue="Application.OverRidingTask2" />
         <item itemvalue="Application.Task1" />
         <item itemvalue="Application.Repl139" />
-        <item itemvalue="Application.C" />
       </list>
     </recent_temporary>
   </component>
