@@ -5,11 +5,11 @@ package HomeWork;
 //Define some methods specific to child classes
 //Write example of achieving run time polymorphism
 class Student {
-    String s = "Student";
+   static String s = "Student";
     Student(String s) {
         this.s = s;
     }
-    void study() {
+   static  void study() {
         System.out.println(s + " study everyday");
     }
     void practice() {
@@ -39,9 +39,9 @@ class CollegeStudent extends Student {
         System.out.println(s + " study in person 5 days a week");
     }
 
-    @Override
-    void study() {
-        System.out.println(s + " study occasionally");
+
+  static void study() {
+        System.out.println( " college student study occasionally");
     }
 }
 
@@ -57,11 +57,22 @@ class SchoolStudent extends Student {
 
 class Main {
     public static void main(String[] args) {
+
+        CollegeStudent ob= new CollegeStudent("College");
+        Student.study();
+ob.study();
+/*
         Student[] objs = {new Student("Student"), new SyntaxStudent("Syntax Student"), new CollegeStudent("College Student"), new SchoolStudent("School Student")};
         for (Student obj : objs) {
 
             obj.study();
             obj.practice();
-        }
+            if (obj instanceof SyntaxStudent){
+                ((SyntaxStudent) obj).studyOnLine();
+            }else if (obj instanceof CollegeStudent ){
+                ((CollegeStudent) obj).studyInPerson();
+
+            }
+        }*/
     }
 }

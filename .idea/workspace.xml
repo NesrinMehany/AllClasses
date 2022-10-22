@@ -2,43 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91403db8-e3ef-461b-8032-0a4246c9da1d" name="Changes" comment="Constructor Homework">
-      <change afterPath="$PROJECT_DIR$/Drivers/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drivers/geckodriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/C22PolymorphismTask1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/C23PolymorphismTask1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/C23PolymorphismTask2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class11/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class11/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class11/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class11/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class11/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class11/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class11/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/AnimalTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/CarTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/CastingDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/CreditCardTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/FinalDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/WebDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/WebDriverTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/DataBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/DataBaseTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/IDataBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/InterfaceTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/StudentTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/Practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/Practice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/ProjectTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/ProjectTask2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/ProjectTask3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/ProjectTask4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/practice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SDETBatch14Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SDETBatch14Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork/C22PolymorphismTask1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork/C22PolymorphismTask1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +54,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Mina/Syntax WorkSpace/SeleniumBasics",
+    "last_opened_file_path": "C:/Users/Mina/Syntax WorkSpace/AllClasses",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -96,9 +69,9 @@
       <recent name="C:\Users\Mina\Syntax WorkSpace\AllClasses" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork.Main" />
+  <component name="RunManager" selected="Application.test1">
+    <configuration name="ProjectTask2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork.ProjectTask2" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
@@ -110,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OverRidingTask2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork.OverRidingTask2" />
+    <configuration name="ProjectTask3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork.ProjectTask3" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
@@ -123,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Repl139" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class20.Repl139" />
+    <configuration name="parent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork.parent" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class20.*" />
+          <option name="PATTERN" value="HomeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class20.Task1" />
+    <configuration name="practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork.practice" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class20.*" />
+          <option name="PATTERN" value="HomeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,8 +122,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork.Tester" />
+    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork.test1" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
@@ -177,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Tester" />
-        <item itemvalue="Application.OverRidingTask2" />
-        <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.Repl139" />
+        <item itemvalue="Application.test1" />
+        <item itemvalue="Application.parent" />
+        <item itemvalue="Application.practice" />
+        <item itemvalue="Application.ProjectTask3" />
+        <item itemvalue="Application.ProjectTask2" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665075558273</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Constructor Homework">
+      <created>1666197977933</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666197977933</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,6 +201,20 @@
     <option name="LAST_COMMIT_MESSAGE" value="Constructor Homework" />
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HomeWork/practice.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HomeWork/practice.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="run" language="JAVA" />
