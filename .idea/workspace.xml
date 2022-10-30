@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91403db8-e3ef-461b-8032-0a4246c9da1d" name="Changes" comment="Constructor Homework">
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/Practice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/Practice3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/ProjectTask1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/ProjectTask2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/ProjectTask3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/ProjectTask4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class24/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class24/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class24/EncapsulationConsept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class24/WhyCollectionFrameWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class24/practice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork/C22PolymorphismTask1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork/C22PolymorphismTask1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/Class18/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/Class18/Animal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +51,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Mina/Syntax WorkSpace/AllClasses",
+    "last_opened_file_path": "C:/Users/Mina/Syntax WorkSpace/AllClasses/src/com/syntax/class24",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -63,19 +60,20 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mina\Syntax WorkSpace\AllClasses\src\com\syntax\class24" />
       <recent name="C:\Users\Mina\Syntax WorkSpace\AllClasses\src\com\syntax" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Mina\Syntax WorkSpace\AllClasses" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.test1">
-    <configuration name="ProjectTask2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork.ProjectTask2" />
+  <component name="RunManager" selected="Application.Tests">
+    <configuration name="EncapsulationConsept" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class24.EncapsulationConsept" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork.*" />
+          <option name="PATTERN" value="com.syntax.class24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProjectTask3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork.ProjectTask3" />
+    <configuration name="Tests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class24.Tests" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork.*" />
+          <option name="PATTERN" value="com.syntax.class24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,7 +99,7 @@
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork.*" />
+          <option name="PATTERN" value="Projects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,7 +112,7 @@
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork.*" />
+          <option name="PATTERN" value="Projects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,7 +125,7 @@
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork.*" />
+          <option name="PATTERN" value="Projects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tests" />
+        <item itemvalue="Application.EncapsulationConsept" />
         <item itemvalue="Application.test1" />
         <item itemvalue="Application.parent" />
         <item itemvalue="Application.practice" />
-        <item itemvalue="Application.ProjectTask3" />
-        <item itemvalue="Application.ProjectTask2" />
       </list>
     </recent_temporary>
   </component>
