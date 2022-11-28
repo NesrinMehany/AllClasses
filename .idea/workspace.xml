@@ -2,13 +2,99 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91403db8-e3ef-461b-8032-0a4246c9da1d" name="Changes" comment="Constructor Homework">
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class24/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class24/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class24/EncapsulationConsept.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class24/WhyCollectionFrameWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class24/practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/Test.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/excelDemo.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/C24Arraylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/C25ArrayListMethodsTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/C25ArrayListMethodsTask2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/C25ArrayListMethodsTask3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/C26Hw2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/C28HWMapsTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/C28HWTask2Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/C28HWTask3Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/C28HWTask4Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/C28HWTask5Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/C28HWTask6Collections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/C28HWTask7Collections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/Repl209.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/pr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/repl210.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/tasks notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewRepls/Repl215.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewRepls/Repl216.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewRepls/Repl218.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utils/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utils/ExcelReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utils/StringUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class25/ArrayListMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class25/ArrayListmMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class25/ContainsAllDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class25/GenericCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class25/IteratorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class25/IteratorDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class25/IteratorDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class25/IteratorDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class25/IteratorDemo4WithLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class25/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class25/RemoveAllDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class25/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class25/WhyWeNeedIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class25/WrapperClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class26/ArrayListVsLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class26/ListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class26/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class26/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class26/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class26/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class26/TypesOfSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class26/WhenToUseSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class26/WhySet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class26/WrapperDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/ArrayListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/Insurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/MapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/MapDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/MapDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/MapDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/MapDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/MapDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/MapDemo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/ExcelDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/ExcelDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/FileDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/MapDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/MapDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/MapDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/MapDemo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/MapsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/MapsDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/excelDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class29/FilesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class29/MethodsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class29/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class29/ReadingExcelFileDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class29/ReadingExcelFileDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class29/Review1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class29/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/ExceptionDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/ExceptionDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/ExceptionDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/FinallyBlockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/Repl209.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/ThrowVsThrows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/TryCatchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/TypesOfExcep.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/Class18/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/Class18/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDETBatch14Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SDETBatch14Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork/Practice2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork/practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork/practice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +137,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Mina/Syntax WorkSpace/AllClasses/src/com/syntax/class24",
+    "last_opened_file_path": "C:/Users/Mina/Syntax WorkSpace/AllClasses",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -60,20 +146,23 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Mina\Syntax WorkSpace\AllClasses\src\com\syntax\class24" />
+      <recent name="C:\Users\Mina\Syntax WorkSpace\AllClasses\src\Utils" />
+      <recent name="C:\Users\Mina\Syntax WorkSpace\AllClasses\src" />
       <recent name="C:\Users\Mina\Syntax WorkSpace\AllClasses\src\com\syntax" />
+      <recent name="C:\Users\Mina\Syntax WorkSpace\AllClasses\Data" />
+      <recent name="C:\Users\Mina\Syntax WorkSpace\AllClasses\src\com\syntax\class25" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Mina\Syntax WorkSpace\AllClasses" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Tests">
-    <configuration name="EncapsulationConsept" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class24.EncapsulationConsept" />
+  <component name="RunManager" selected="Application.Repl216">
+    <configuration name="Repl215" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewRepls.Repl215" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class24.*" />
+          <option name="PATTERN" value="InterviewRepls.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +170,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class24.Tests" />
+    <configuration name="Repl216" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewRepls.Repl216" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class24.*" />
+          <option name="PATTERN" value="InterviewRepls.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +183,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="parent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork.parent" />
+    <configuration name="Repl218" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewRepls.Repl218" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Projects.*" />
+          <option name="PATTERN" value="InterviewRepls.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +196,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork.practice" />
+    <configuration name="pr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork.pr" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Projects.*" />
+          <option name="PATTERN" value="HomeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +209,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork.test1" />
+    <configuration name="repl210" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork.repl210" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Projects.*" />
+          <option name="PATTERN" value="HomeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +237,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Tests" />
-        <item itemvalue="Application.EncapsulationConsept" />
-        <item itemvalue="Application.test1" />
-        <item itemvalue="Application.parent" />
-        <item itemvalue="Application.practice" />
+        <item itemvalue="Application.Repl216" />
+        <item itemvalue="Application.Repl218" />
+        <item itemvalue="Application.Repl215" />
+        <item itemvalue="Application.repl210" />
+        <item itemvalue="Application.pr" />
       </list>
     </recent_temporary>
   </component>
@@ -203,13 +292,8 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/HomeWork/practice.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/HomeWork/practice.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="6" />
+          <line>24</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
