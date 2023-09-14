@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class Repl216 {
     public static void main(String[] args) {
-        sumZero(0);
+        sumZero(6);
     }
 
     public static int[] sumZero(int num) {

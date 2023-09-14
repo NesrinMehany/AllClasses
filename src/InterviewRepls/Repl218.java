@@ -3,38 +3,26 @@ package InterviewRepls;
 import java.util.*;
 
 public class Repl218 {
-   /* public static List<String> countRepeatation (ArrayList<String> items){
+    public static List<String> countRepeatation(List<String> items) {
+        for (int i = 0; i < items.size(); i++) {
+            int count = 0;
+            for (int y = i + 1; y < items.size(); y++) {
 
-int count=0;
-        String [] uniqueItems= new String[items.size()];
-        for(int i=0;i< items.size();i++){
-            for(int j=0; j<uniqueItems.length;j++)
-            if(items.get(i).equalsIgnoreCase(uniqueItems[j])){
-                count++;
-                uniqueItems[j]=items.get(i)+count;
+                if (items.get(i).equalsIgnoreCase(items.get(y))) {
+                    count++;
+                    items.set(y, items.get(i) + count);
 
-            }else{uniqueItems[j]=items.get(i);}
-
-
+                }
+            }
         }
-        List<String> b = Arrays.asList(uniqueItems);
-        System.out.println(b);
-        return b;
-            }*/
+        System.out.println(items);
+        return items;
+    }
 
-
-    /*public static List<String> countRepeatation (ArrayList<String> items){
-        LinkedHashMap <String, Integer> countedItems= new LinkedHashMap<>();
-        Set<Map.Entry<String, Integer>> allEntries= countedItems.entrySet();
-        for (Map.Entry<String, Integer> entry :allEntries)
-        for(int i=0; i<items.size(); i++){
-
-        }
-    }*/
 
     public static void main(String[] args) {
 
-      ArrayList<String>  items=new ArrayList<>();
+        ArrayList<String> items = new ArrayList<>();
         items.add("switch");
         items.add("tv");
         items.add("switch");
@@ -42,6 +30,28 @@ int count=0;
         items.add("switch");
         items.add("tv");
 
-        //countRepeatation(items);
+
+        countRepeatation(items);
     }
+
 }
+
+//MIna
+    /* public static void countRepetation(ArrayList<String> originalItems) {
+         LinkedHashSet uniqueItemsSet = new LinkedHashSet(originalItems);
+         ArrayList<String> uniqueItems = new ArrayList<>(uniqueItemsSet);
+         ArrayList<String> expectedItems = new ArrayList<>();
+
+         for (int i = 0; i < uniqueItems.size(); i++) {
+             int counter = 0;
+
+             for (int x = 0; x < originalItems.size(); x++) {
+                 if (originalItems.get(x).equalsIgnoreCase(uniqueItems.get(i))) {
+                     expectedItems.add(originalItems.get(x) + " " + counter);
+                     counter++;
+                 }
+             }
+         }
+         System.out.println(expectedItems);
+
+}*/
